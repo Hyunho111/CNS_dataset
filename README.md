@@ -41,11 +41,11 @@ CNS
   │
   └─Map
     └─Sequence
-        │  gt.csv
-        │  imu.csv
+        │ gt.csv
+        │ imu.csv
         │
         └─LiDAR
-        	  TIME_STAMP.pcd
+          TIME_STAMP.pcd
 ```
 - LiDAR
 	- LiDAR data is stored in **LiDAR** folder in pcd format (XYZI of each point). Each file is named by its timestamp.
