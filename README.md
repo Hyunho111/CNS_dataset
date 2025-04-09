@@ -36,9 +36,8 @@ We configure the following virtual sensors in CARLA: a LiDAR and an IMU. Notably
 ### Data Format
 ```
 CNS
-  ├─Transformation
-  │        transformation_lidar.yaml
-  │        transformation_imu.yaml
+  │ transformation_lidar.yaml
+  │ transformation_imu.yaml
   │
   └─Map
     └─Sequence
