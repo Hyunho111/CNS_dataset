@@ -84,7 +84,7 @@ Our dataset comprises 4 maps and 12 sequences in total: <tt>Downtown</tt> and <t
   - Originated from the Carla base map <a href="https://carla.readthedocs.io/en/0.9.15/map_town10/"><tt>Town10</tt></a>.
 
 ## Download
-<a href="https://drive.google.com/drive/folders/1jbKrrJGG56p9uusLyne1WrwwEmXSNHce?usp=sharing"><strong>Download Link</strong></a>
+<a href="https://drive.google.com/drive/folders/11HlqJziq6lDGVjYX8FdcVlmkA2EVDSsx?usp=sharing"><strong>Download Link</strong></a>
 
 ## Acknowledgements
 This work is based on the CARLA Simulator. We would like to thank the CARLA team for their contributions and development of this powerful tool.
