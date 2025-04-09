@@ -1,4 +1,4 @@
-<h1 align="center"> The City that Never Settles<br/>: Simulation-based LiDAR Dataset <br/> for Long-Term Place Recognition Under Extreme Structural Changes </h1>
+<h1 align="center"> The City that Never Settles<br/>: Simulation-based LiDAR Dataset <br/> for Long-Term Place Recognition <br/>Under Extreme Structural Changes </h1>
 <!-- <p align="center">
 <a href="https://tinyurl.com/DongjaeLEE0107"><strong>Dongjae LEE</strong></a>
 ·
@@ -12,11 +12,7 @@
 <p></p>
 
 <p align="center">
-<img src="figure/main.pdf" alt="" width="100%">
-</p>
-
-</h3>
-<div align="center"></div>
+<img src="figure/main.png" alt="" width="100%">
 </p>
 
 ## Dataset
@@ -26,8 +22,8 @@ We introduce CNS, a simulation-based dataset created using the CARLA simulator, 
 
 ### Sensor Configuration
 
-<p float="center">
-  <img src="figure/sensor configuration.pdf" width="80%" />
+<p align="center">
+  <img src="figure/sensor configuration.png" width="50%" />
   <!-- <img src="figure/sensor_coordinate.png" width="35%" />  -->
 </p>
 
@@ -67,7 +63,7 @@ CNS
 
 ## Sequences
 <p float="center">
-  <img src="figure/data_generation.pdf" width="100%" />
+  <img src="figure/data_generation_traj.png" width="100%" />
   <!-- <img src="figure/sensor_coordinate.png" width="35%" />  -->
 </p>
 Our dataset comprises 4 maps and 12 sequences in total: <tt>Downtown</tt> and <tt>Metropolis</tt> each include 4 sequences <tt>(01–04)</tt>, while <tt>Riverside</tt> and <tt>Suburbia</tt> each contain 2 sequences <tt>(01–02)</tt>. Each sequence reflects a distinct stage of structural changes, where lower-numbered sequences represent maps with fewer structures, and higher-numbered sequences (e.g., <tt>04</tt> or <tt>02</tt>) represent the original, fully built environment. Thus, moving from lower to higher numbers simulates construction, and from higher to lower numbers simulates demolition.
