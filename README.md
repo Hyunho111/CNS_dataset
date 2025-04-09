@@ -69,19 +69,19 @@ Our dataset comprises 4 maps and 12 sequences in total: <tt>Downtown</tt> and <t
 
 - <tt>Riverside</tt>
   - Small residential area featuring a small river and several bridges. 
-  - Originated from the Carla base map <a href="https://carla.readthedocs.io/en/0.9.15/map_town01/"><tt>Town01</tt></a>.
+  - Originated from the CARLA base map <a href="https://carla.readthedocs.io/en/0.9.15/map_town01/"><tt>Town01</tt></a>.
 
 - <tt>Suburbia</tt>
   - Small town with a mix of residential and commercial zones, featuring numerous T-junctions. 
-  - Originated from the Carla base map <a href="https://carla.readthedocs.io/en/0.9.15/map_town02/"><tt>Town02</tt></a>.
+  - Originated from the CARLA base map <a href="https://carla.readthedocs.io/en/0.9.15/map_town02/"><tt>Town02</tt></a>.
 
 - <tt>Downtown</tt>
   - Large urban area with a variety of road types, including highways, multi-lane streets, and a central business district, offering a complex and diverse environment. 
-  - Originated from the Carla base map <a href="https://carla.readthedocs.io/en/0.9.15/map_town03/"><tt>Town03</tt></a>.
+  - Originated from the CARLA base map <a href="https://carla.readthedocs.io/en/0.9.15/map_town03/"><tt>Town03</tt></a>.
 
 - <tt>Metropolis</tt>
   - Urban area with a dense network of multi-lane roads, skyscrapers, and complex intersections, representing a highly developed and bustling city environment. 
-  - Originated from the Carla base map <a href="https://carla.readthedocs.io/en/0.9.15/map_town10/"><tt>Town10</tt></a>.
+  - Originated from the CARLA base map <a href="https://carla.readthedocs.io/en/0.9.15/map_town10/"><tt>Town10</tt></a>.
 
 ## Download
 <a href="https://drive.google.com/drive/folders/11HlqJziq6lDGVjYX8FdcVlmkA2EVDSsx?usp=sharing"><strong>Download Link</strong></a>
