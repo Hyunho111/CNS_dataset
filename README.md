@@ -44,11 +44,11 @@ CNS
         │ gt.csv
         │ imu.csv
         │
-        └─LiDAR
+        └─pcd
           TIME_STAMP.pcd
 ```
 - LiDAR
-	- LiDAR data is stored in **LiDAR** folder in pcd format (XYZI of each point). Each file is named by its timestamp.
+	- LiDAR data is stored in **pcd** folder in pcd format (XYZI of each point). Each file is named by its timestamp.
 	- For more detailed information, please refer to this <a href="https://carla.readthedocs.io/en/0.9.15/ref_sensors/#lidar-sensor">link</a>.
 - IMU
 	- **'imu.csv'** stores the orientation, angular velocity and linear acceleration data measured by IMU sensor.
@@ -57,7 +57,7 @@ CNS
   - The ground truth information can be found in the **'gt.csv'**.
   - [time_stamp, x, y, z, qx, qy, qz, qw]
 - Transforamtion Data
-	- The transforamtion matrix of the sensors are stored in **Transformation** folder.
+	- The transforamtion matrices of the sensors are stored in **'.yaml'** files.
 
 
 ## Sequences
