@@ -1,4 +1,4 @@
-<h1 align="center"> The City that Never Settles<br/>: Simulation-based LiDAR Dataset <br/> for Long-Term Place Recognition <br/>Under Extreme Structural Changes </h1>
+<h2 align=""> The City that Never Settles : </br>Simulation-based LiDAR Dataset for Long-Term <br> Place Recognition Under Extreme Structural Changes </h2>
 <!-- <p align="center">
 <a href="https://tinyurl.com/DongjaeLEE0107"><strong>Dongjae LEE</strong></a>
 ·
@@ -7,7 +7,7 @@
 <a href="https://ayoungk.github.io/"><strong>Ayoung KIM</strong></a>
 </p> -->
 
-<!-- <h3 align="center">IROS 2023 Workshop Paper</a> -->
+<!-- <h3 align="center">ICRA 2025 Workshop Paper</a> -->
 
 <p></p>
 
@@ -92,7 +92,12 @@ This work is based on the CARLA Simulator. We would like to thank the CARLA team
 ## Citation
 If you use our dataset for your project, please cite our paper.
 ```
-
+@article{song2025city,
+  title={The City that Never Settles: Simulation-based LiDAR Dataset for Long-Term Place Recognition Under Extreme Structural Changes},
+  author={Song, Hyunho and Lee, Dongjae and Oh, Seunghun and Jung, Minwoo and Kim, Ayoung},
+  journal={arXiv preprint arXiv:2505.05076},
+  year={2025}
+}
 ```
 
 ## License
